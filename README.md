@@ -11,15 +11,15 @@ Android Gradle
 --------------
 Add the following code to build.gradle(root)
 
-repositories {
-    google()
-    jcenter()
-
-    maven { url 'https://jitpack.io' }
-}
+repositories { <br/>
+    google()    <br/>
+    jcenter()   <br/>
+    <br/>
+    maven { url 'https://jitpack.io' }  <br/>
+}   <br/>
 
 Add the following code to build.gradle(app)
 
-dependencies {
-    implementation 'com.github.Zaw-Moe-Htike:FirstLibExample-Example:1.1'
-}
+dependencies {  <br/>
+    implementation 'com.github.Zaw-Moe-Htike:FirstLibExample-Example:1.1'   <br/>
+}   <br/>
