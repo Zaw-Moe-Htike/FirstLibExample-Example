@@ -20,7 +20,6 @@ repositories {
 
 Add the following code to build.gradle(app)
 
-// Add Colourful Toast dependencies
 dependencies {
     implementation 'com.github.Zaw-Moe-Htike:FirstLibExample-Example:1.1'
 }
